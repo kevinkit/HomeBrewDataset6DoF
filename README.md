@@ -39,4 +39,25 @@ The label files are .json files. The name of the files are the same as the image
 | camera_matrix | This is the intrinsic camera matrix, it will be the same over all images|
 | discoef | These are the coefficients of the camera |
 | paper3D | The objects are placed on a white paper, these are the 3D coordianates of the paper | 
-| paper2D | The objects are place on a white paper, these are the projected 2D coordinates of the paper <  
+| paper2D | The objects are place on a white paper, these are the projected 2D coordinates of the paper |
+
+# Citation
+
+If you find this dataset useful or use it in your research please cite:
+
+```
+@misc{khoefle2020,
+  author = {Kevin Hoefle},
+  title = {HomeBrewDataset6DoF},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/kevinkit/HomeBrewDataset6DoF}},
+}
+```
+
+# Support
+
+If you want to support the hosting of this dataset and the development of further helping functions, you can [donate](paypal.me/happydonations)
+
+

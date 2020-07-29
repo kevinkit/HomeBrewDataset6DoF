@@ -58,6 +58,6 @@ If you find this dataset useful or use it in your research please cite:
 
 # Support
 
-If you want to support the hosting of this dataset and the development of further helping functions, you can [donate](paypal.me/happydonations)
+If you want to support the hosting of this dataset and the development of further helping functions, you can [donate](https://www.paypal.com/paypalme/happydonations)
 
 
